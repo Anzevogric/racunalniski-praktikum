@@ -18,7 +18,7 @@ ctrl+o+p - odpre files
 + *Odpre files: ctrl+o+p*
 + *Sharni spremembe: ctrl+s*
 + *Odpre pot do task menegerja: ctrl+alt+delete*
-+ *uporaba večih kurzorjev: ctrl+alt+puščice*
++ *Uporaba večih kurzorjev: ctrl+alt+puščice*
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
